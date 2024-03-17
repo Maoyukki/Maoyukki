@@ -1,6 +1,8 @@
 ### Hi there 👋 I’m Maoyukki
 <hr>
-<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<div align="center"> 
+	<img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai">
+</div>
 <hr>
 
 <!--
