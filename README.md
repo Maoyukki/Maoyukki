@@ -21,10 +21,8 @@ Here are some ideas to get you started:
 	<img  src="https://github-readme-stats.vercel.app/api?username=Maoyukki&show_icons=true&theme=dark&count_private=true" />
 </div>
 -->
-<div align="center">
-	<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maoyukki&theme=dark&layout=compact" />
-</div>
 
-<div align="center">
-	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" />
-</div>
+
+
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maoyukki&theme=dark&layout=compact" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" />
